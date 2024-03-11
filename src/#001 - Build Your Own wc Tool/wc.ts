@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'fs'
 
 /**
  * This function Reads the given stream and returns a Buffer.
